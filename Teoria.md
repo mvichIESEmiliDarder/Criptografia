@@ -40,25 +40,25 @@ El sistema consistia en tenir dues vares del mateix gruix que s'entregaven als p
 
 Podem trobar una descripció del procediment a l'obra de Plutarc, Vida de Lisandre. (font [wikipedia](https://es.wikipedia.org/wiki/Esc%C3%ADtala))
 
-![[Skytale.png]]
+![[imgs/Skytale.png]]
 
 ## Xifratge Atbash
 Històricament, fins i tot abans que els grecs utilitzessin la famosa Escítala, hi ha constància escrita d'un mètode de transposició a la Bíblia, el **xifrat Atbash**, un sistema en mirall que consisteix en substituir una lletra de l'alfabet hebreu per la seva espellada. Per exemple: es canvia la lletra *àlef* (la primera de l'alfabet) per la lletra de posició simètrica respecte al centre, en aquest cas l'última *tav*. El seu ús més conegut es dóna al llibre de Jeremies I on a fi de no nomenar l'odiada Babilònia (בבל, Babel) s'utilitza el terme, en atbash, Sesac (ששך, Sheshakh).
 
-![[atbash.jpg]]
-![[atbash1.jpg]]
+![[imgs/atbash.jpg]]
+![[imgs/atbash1.jpg]]
 
 Aquests dos mètodes de xifratge fan ús de la **transposició** de les lletres. En una **transposició** les lletres del text pla es barregen o desordenen seguint un determinat algorisme per obtenir un anagrama. 
 
 ## Xifrat César
 El xifrat Cèsar, també conegut com a xifrat per desplaçament, codi de Cèsar o desplaçament de Cèsar. És una de les tècniques de xifrat més simples i més usades. És un tipus de xifrat per **substitució** en què una lletra al text original és reemplaçada per una altra lletra que es troba un nombre fix de posicions més endavant a l'alfabet. Per exemple, amb un desplaçament de 3, l'A seria substituïda per la D (situada 3 llocs a la dreta de l'A), la B seria reemplaçada per l'E, etc. Aquest mètode deu el seu nom a Juli Cèsar, que el feia servir per comunicar-se amb els seus generals. (font [wikipedia](https://es.wikipedia.org/wiki/Cifrado_C%C3%A9sar))
 
-![[Caesar3.svg.png]]
+![[imgs/Caesar3.svg.png]]
 
 ## Xifrat Polibio
 Un altre dels sistemes clàssics més coneguts és el **xifrat de Polybios** que data del segle II aC. i és el sistema per *substitució* de caràcters més antic que es coneix. En aquest cas se substitueix cada caràcter, cada lletra, per una parella de números o lletres. L'A passa a ser una AA, la B una AB, la C una AC… Aquests quadres podien canviar la combinació de lletres cada cop, provocant moltes variables”.
 
-![[Polibio.png]]
+![[imgs/Polibio.png]]
 
 Hem vist ara dos exemples xifrat per **substitució**. Aquest és un mètode de xifrat pel qual unitats de text pla són substituïts amb text xifrat seguint un sistema regular; les "unitats" poden ser una sola lletra (el cas més comú), parells de lletres, trios de lletres, barreges de l'anterior, entre d'altres. El receptor desxifra el text fent la substitució inversa. En una substitució, per contra, les unitats de text pla mantenen el seu ordre al missatge, però se substitueixen amb text xifrat seguint un algorisme específic.
 
@@ -66,15 +66,15 @@ Similars exemples de xifrat per substitució es poden considerar els sistemes al
 
 També citarem noveles, on la trama discorre arran de desxifrar un codi secret, com, el llibre d'Edgar A. Poe, *L'escarabat d'or* (1843) o a la novela de Juli Verne, Viatge al centre de la terra  (1864) com a part dels esforços per desxifrar el missatge que dóna lloc al viatge,  o finalment la novela més moderna *Circo Máximo* de Santiago Posteguillo (2014), on en  el capítol 93 presenta un missatge xifrat per transposició columnar simple explicant-se, al llarg del mateix, el funcionament del desxifrat. El títol del capítol és aquest missatge xifrat (SIEAAZTEREUXMGSI).
 
-![[goldbug.jpg]]
+![[imgs/goldbug.jpg]]
 Imatge del llibre *l'Escarabat d'or*
 
-![[Jules_verne_cryptogramme.png]]
+![[imgs/Jules_verne_cryptogramme.png]]
 Imatge del llibre *Viatge al centre de la terra*
 
 I ens hem deixat molts d'exemples que a la història s'ha fet servir la criptografia,  els jeroglífics de fa 4000 anys a la ciutat Menet-Khufu que contaven la vida del seu senyor Khnumhoteb II; a la Índia al segle IV a.C el ministre Kautilya va escriure al seu rei Chandragupta la necessitat de desplegar espies per tot el pais i xifrar totes les seves comunicacions; Heródote, descriu a la seva obra *Històries* els conflictes entre Grècia i Persia al segle V a.C. i com va ser la criptografia la que va salvar a Grècia de ser ocupada per Jerjes, el rei dels Perses; els àrabs a l'any 750 ja empraven, entre els funcionaris, una forma rutinaria de criptografia per escriure manuals administratius (*Adab al-Kuttab*) o per per comunicar-se amb els seus governants; inclús els àrabs varen tractar també com rompre els sitemes criptogràfics, com l'erudit Abu Yusuf al-Kindi que al segle IX va escriure entre d'altres, el llibre *Sobre el desxiframent de missatges criptogràfics*.
 
-![[erudit.jpg]]
+![[imgs/erudit.jpg]]
 
 En resum, sobre els mètodes criptogràfics podem dir que tenim dos tipus:
 | Mètodes criptogràfics | Descripció                                                                                              |
